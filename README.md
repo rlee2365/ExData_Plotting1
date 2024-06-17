@@ -1,3 +1,6 @@
+## Instructions for reproducibility
+The `household_power_consumption.txt` text file from the dataset listed below should be in the R working directory in order to run scripts provided
+
 ## Introduction
 
 This assignment uses data from
